@@ -1,0 +1,328 @@
+/* CSS HOME PAGE */
+
+.sfondoHomePage {
+    background-color: #E10600;
+}
+
+
+/* IMMAGINE SFONDO HOME PAGE E TESTO */
+
+.page-holder {
+    min-height: 100vh;
+}
+
+.bg-cover {
+    background-size: cover !important;
+}
+
+.intestazione {
+    color: red;
+}
+
+.sottointestazione {
+    color: black;
+    background-color: rgba(249, 249, 249, 0.7);
+}
+
+
+/* LOGIN */
+
+.cardLogin {
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.social_icon span {
+    font-size: 60px;
+    margin-left: 10px;
+    color: #FFC312;
+}
+
+.social_icon span:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.card-header h3 {
+    color: white;
+}
+
+.social_icon {
+    position: absolute;
+    right: 20px;
+    top: -45px;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border: 0 !important;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+    color: white;
+}
+
+.remember input {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn {
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+}
+
+.login_btn:hover {
+    color: black;
+    background-color: white;
+}
+
+.links {
+    color: white;
+}
+
+.links a {
+    margin-left: 4px;
+}
+
+
+/* FINE LOGIN */
+
+
+/* CARD BUTTON HOME */
+
+.titoloCard {
+    color: yellow;
+}
+
+.descrizioneCrad {
+    color: white;
+}
+
+
+/* COLORE NAV BAR ALTA E NAV BAR TRASPARENTE FINE PAGINA */
+
+.coloreNav {
+    background-color: #E10600;
+}
+
+.coloreNav2 {
+    background-color: rgb(225, 6, 0, 0.7);
+}
+
+
+/* TESTO NAV BAR FINE PAGINA */
+
+.testoNav2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4vh;
+    color: yellow;
+}
+
+
+/* CARD PILOTI */
+
+.nomePilota {
+    color: blue;
+}
+
+
+/* MARGINE INIZIO PER PILOTI */
+
+.margineInizio2 {
+    margin-top: 8vh;
+}
+
+
+/* SFONDI CON I COLORI PER I VARI TEAM */
+
+.sfondoAlfaRomeo {
+    background: #C1C6CC;
+}
+
+.sfondoAlphaTauri {
+    background: #062542;
+}
+
+.sfondoAlpine {
+    background: #003498;
+}
+
+.sfondoAstonMartin {
+    background: #015850;
+}
+
+.sfondoFerrari {
+    background: darkred;
+}
+
+.sfondoHaas {
+    background-color: #134791;
+}
+
+.sfondoMcLaren {
+    background-color: #FFB33D;
+}
+
+.sfondoMercedes {
+    background: #41484E;
+}
+
+.sfondoRedBull {
+    background-color: #F8281C;
+}
+
+.sfondoWilliams {
+    background-color: #243040;
+}
+
+
+/* CIRCUITI */
+
+.margineInizio {
+    margin-top: 8vh;
+}
+
+.nomeCircuito {
+    color: darkblue;
+}
+
+.sfondoCircuiti {
+    background-color: rgb(173, 216, 230);
+}
+
+.bordoCircuiti {
+    border: 1px solid darkred;
+}
+
+
+/* L' AUTO */
+
+.sfondoAuto {
+    background-color: red;
+}
+
+.margineInizioAuto {
+    margin-top: 8vh;
+}
+
+.titolo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    color: yellow;
+}
+
+
+/* RECORD */
+
+.sfondoRecord {
+    background-color: #E10600;
+}
+
+.descrizioneRecord {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.titoloRecord {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    color: darkred;
+    background-color: orange;
+}
+
+.sfondoCard {
+    background-color: #CC0000;
+}
+
+
+/* SCUDERIE */
+
+.sfondoScuderia {
+    background-color: black;
+}
+
+.descrizioneScuderia {
+    font-size: 3vh;
+    color: white;
+}
+
+.buttonPiloti {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    background-color: #20214f;
+}
+
+.cardAuto {
+    background-color: #20214f;
+}
+
+.margineScuderia {
+    margin-top: 7vh;
+}
+
+
+/* STORIA */
+
+.margineStoria {
+    margin-top: 8vh;
+}
+
+.sfondoStoria {
+    background-color: #E10600;
+}
+
+.testoStoria {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 3vh;
+    color: white;
+}
+
+.titoloSezione {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    color: blue;
+}
+
+
+/* CREDITI */
+
+.sfondoCrediti {
+    background-color: orange;
+}
+
+.titoloCrediti {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vh;
+    color: red;
+}
