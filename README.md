@@ -1,6 +1,6 @@
 # SITO F1 2021
 
-Sito realizzato come compito per le vacanze natalzie A.S. 2021/2022
+Sito realizzato come compito per le vacanze natalizie A.S. 2021/2022
 
 URL del sito: https://mattiabracco05.github.io/F1/
 
